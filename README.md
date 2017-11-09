@@ -8,4 +8,4 @@ Grupos:
 - NOTICIAS
 - INFANTILES
 
-Comprobado con (IPTVtools)[http://www.iptvtools.net]
+Comprobado con [IPTVtools](http://www.iptvtools.net)
