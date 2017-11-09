@@ -1,1 +1,9 @@
-# Lista funcional 08/11/17
+# Lista funcional 09/11/17
+
+Grupos:
+- ESPAÑA
+- LATINOS
+- MUSICA
+- CULTURA
+- NOTICIAS
+- INFANTILES
