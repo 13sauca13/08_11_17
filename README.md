@@ -7,3 +7,5 @@ Grupos:
 - CULTURA
 - NOTICIAS
 - INFANTILES
+
+Comprobado con (IPTVtools)[http://www.iptvtools.net]
